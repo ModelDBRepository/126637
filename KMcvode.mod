@@ -36,7 +36,7 @@ ASSIGNED {
 }
  
 BREAKPOINT {
-        SOLVE state METHOD euler
+        SOLVE state METHOD cnexp : see http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
         gk = gkbar *m
     	  ik = gk* (v-ekcvode)
 }

@@ -39,3 +39,7 @@ This model and all simulations can be accessed as a "Shared
 BioModel" by logging in to VCell at http://www.vcell.org; the model
 is entitled "Brown et al 2010 Purkinje MultiCompartmental Combined
 Biochem and Electrophysiol" under the username Brown.
+
+20111027 ModelDB Administrator: the two files KMcvode.mod Khhcvode.mod
+had their integration methods changed from euler to cnexp.  See
+http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
