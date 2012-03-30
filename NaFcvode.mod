@@ -37,7 +37,7 @@ ASSIGNED {
 }
  
 BREAKPOINT {
-        SOLVE state METHOD euler
+        SOLVE state METHOD cnexp
         gna = gnabar *m*m* m*h 
 	ina = gna* (v-enacvode)
 }

@@ -89,7 +89,7 @@ ASSIGNED{
 }
 
 BREAKPOINT{
-	SOLVE state METHOD euler
+	SOLVE state METHOD derivimplicit
 }
 
 DERIVATIVE state {

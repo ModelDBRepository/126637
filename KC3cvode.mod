@@ -52,7 +52,7 @@ ASSIGNED {
 STATE {	m z }		: fraction of open channels
 
 BREAKPOINT {
-	SOLVE state METHOD euler
+	SOLVE state METHOD cnexp
 :	gk = gkbar*m*z*z
 	ik = gkbar*m*z*z*(v - ekcvode)
 }

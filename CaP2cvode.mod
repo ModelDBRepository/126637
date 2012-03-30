@@ -37,7 +37,7 @@ ASSIGNED {
 }
  
 BREAKPOINT {
-	  SOLVE state METHOD euler	
+	  SOLVE state METHOD cnexp
         gca = gcabar * m
         ica = gca* (v-ecacvode)
 }

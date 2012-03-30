@@ -43,3 +43,10 @@ Biochem and Electrophysiol" under the username Brown.
 20111027 ModelDB Administrator: the two files KMcvode.mod Khhcvode.mod
 had their integration methods changed from euler to cnexp.  See
 http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592
+20120330 NaPcvode, NaFcvode, Khcvode, KDcvode, KC3cvode, KAcvode,
+K23cvode, CaTcvode, CaP2cvode, CaEcvode were switched from euler to
+cnexp and CalciumP.mod (with cad suffix) was switched from euler to
+derivimplicit.  See above NEURON forum link. The 
+purkinje_reduced_PPR model.ses and 
+purkinje_spine and spine neck at spinydendrite133.ses
+files had dt changed from 0.00025 to 0.025.

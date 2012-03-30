@@ -42,7 +42,7 @@ ASSIGNED {
 }
  
 BREAKPOINT {
-        SOLVE state METHOD euler
+        SOLVE state METHOD cnexp
         gk = gkbar *m
 	ik = gk* (v-ekcvode)
 }
