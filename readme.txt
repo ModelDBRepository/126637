@@ -49,4 +49,5 @@ cnexp and CalciumP.mod (with cad suffix) was switched from euler to
 derivimplicit.  See above NEURON forum link. The 
 purkinje_reduced_PPR model.ses and 
 purkinje_spine and spine neck at spinydendrite133.ses
-files had dt changed from 0.00025 to 0.025.
+files had dt changed from 0.00025 to 0.0025 which is now fairly
+converged.

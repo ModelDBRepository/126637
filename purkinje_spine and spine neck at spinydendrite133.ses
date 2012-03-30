@@ -63,7 +63,7 @@ t = 500.025
 xvalue("t","t", 2 )
 tstop = 500
 xvalue("Tstop","tstop", 1,"tstop_changed()", 0, 1 )
-dt = 0.025 // 0.00025
+dt = 0.0025 // 0.00025
 xvalue("dt","dt", 1,"setdt()", 0, 1 )
 steps_per_ms = 40
 xvalue("Points plotted/ms","steps_per_ms", 1,"setdt()", 0, 1 )
