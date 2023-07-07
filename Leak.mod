@@ -1,7 +1,7 @@
 TITLE Leak current
 
 COMMENT
-From “Low-threshold potassium channels and a low-threshold calcium channel regulate Ca2+ spike firing in the dendrites of cerebellar Purkinje neurons: a modeling study”
+From â€œLow-threshold potassium channels and a low-threshold calcium channel regulate Ca2+ spike firing in the dendrites of cerebellar Purkinje neurons: a modeling studyâ€
 ENDCOMMENT
  
 UNITS {
