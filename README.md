@@ -24,8 +24,7 @@ This model and all simulations can be accessed as a "Shared BioModel" by logging
 ## Changelog
 
 20111027 ModelDB Administrator: the two files KMcvode.mod Khhcvode.mod had their integration methods changed from euler to cnexp. See [NEURON Forum](http://www.neuron.yale.edu/phpBB/viewtopic.php?f=28&t=592)  
+
 20120330 NaPcvode, NaFcvode, Khcvode, KDcvode, KC3cvode, KAcvode, K23cvode, CaTcvode, CaP2cvode, CaEcvode were switched from euler to cnexp and CalciumP.mod (with cad suffix) was switched from euler to derivimplicit. See above NEURON forum link. The *purkinje_reduced_PPR model.ses* and *purkinje_spine and spine neck at spinydendrite133.ses* files had dt changed from 0.00025 to 0.0025 which is now fairly converged.
 
----
-
-2025-06-02: Converted README to Markdown.
+20250602: Converted README to Markdown.
